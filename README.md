@@ -8,6 +8,7 @@ pip install https://github.com/sqkkyzx/DaenWxHook/raw/main/dist/deanwxhook-1.1.t
 ```
 import deanwxhook
 
+# 新建一个wxbot实例
 # ip – ip
 # port – 端口
 # debuggingwxid – 调试用wxid，使用任一方法时，如果不对towxid传参，则默认发消息到此wxid
