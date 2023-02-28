@@ -1,4 +1,4 @@
-# DaenWxHook
+# WxHookPythonSDK
 为DaenWxHook提供python调用模块
 
 ## 安装
