@@ -2,7 +2,7 @@
 为DaenWxHook提供python调用模块
 
 ## 安装
-pip install https://github.com/sqkkyzx/DaenWxHook/raw/main/dist/deanwxhook-1.1.tar.gz
+pip install https://github.com/sqkkyzx/WxHookPythonSDK/blob/main/dist/deanwxhook-1.1.tar.gz
 
 ## 使用
 ```
