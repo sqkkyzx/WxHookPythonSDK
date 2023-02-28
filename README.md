@@ -1,5 +1,6 @@
 # WxHookPythonSDK
-为DeanWxHook提供python调用模块，兼容qx框架
+
+为一种神秘的nWxHook提供python调用模块，兼容qx框架
 
 ## 安装
 pip install https://github.com/sqkkyzx/WxHookPythonSDK/raw/main/dist/deanwxhook-1.1.tar.gz
