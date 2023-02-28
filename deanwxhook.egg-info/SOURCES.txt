@@ -1,0 +1,6 @@
+deanwxhook.py
+setup.py
+deanwxhook.egg-info/PKG-INFO
+deanwxhook.egg-info/SOURCES.txt
+deanwxhook.egg-info/dependency_links.txt
+deanwxhook.egg-info/top_level.txt
