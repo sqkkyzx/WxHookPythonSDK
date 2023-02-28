@@ -1,5 +1,5 @@
 # WxHookPythonSDK
-为DaenWxHook提供python调用模块
+为DeanWxHook提供python调用模块，兼容千寻框架
 
 ## 安装
 pip install https://github.com/sqkkyzx/WxHookPythonSDK/raw/main/dist/deanwxhook-1.1.tar.gz
@@ -10,7 +10,7 @@ import deanwxhook
 
 # 新建一个wxbot实例
 # ip – ip
-# port – 端口
+# port – 端口，非千寻http端口，需要使用微信启动端口
 # debuggingwxid – 调试用wxid，使用任一方法时，如果不对towxid传参，则默认发消息到此wxid
 
 wxbot = deanwxhook.HttpClient(
